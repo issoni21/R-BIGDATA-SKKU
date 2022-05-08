@@ -1,7 +1,4 @@
-# RStudio files
-.Rproj.user/
-*.Rproj
-
+.Rproj.user
 .Rhistory
 .RData
 .Ruserdata
